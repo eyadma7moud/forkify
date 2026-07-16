@@ -1,5 +1,5 @@
 import * as model from './model.js';
-import recipeView from './views/recipeview.js';
+import recipeView from './views/recipeView.js';
 import searchView from './views/searchView.js';
 import resulsView from './views/resultsView.js';
 import paginationView from './views/paginationView.js';
