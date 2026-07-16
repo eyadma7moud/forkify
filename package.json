@@ -15,8 +15,5 @@
   "dependencies": {
     "core-js": "^3.48.0",
     "regenerator-runtime": "^0.14.1"
-  },
-  "engines": {
-  "node": "24.x"
-}
+  }
 }
