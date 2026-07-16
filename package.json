@@ -17,6 +17,6 @@
     "regenerator-runtime": "^0.14.1"
   },
   "engines": {
-  "node": "18.x"
+  "node": "24.x"
 }
 }
